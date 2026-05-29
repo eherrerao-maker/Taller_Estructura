@@ -1,0 +1,32 @@
+﻿# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Django local files
+db.sqlite3
+/media
+/staticfiles
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Distribution / packaging
+*.egg-info/
+pip-wheel-metadata/
+
+# Testing
+.pytest_cache/
+
+# OS
+.DS_Store
